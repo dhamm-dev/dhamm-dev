@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C2D12,50:EA580C,100:FB923C&height=200&section=header&text=Hi,%20I'm%20Idham!&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Informatics%20Engineering%20Student%20%7C%20Web%20Explorer%20%7C%20Linux%20Enthusiast&descAlignY=58&descSize=16" width="100%" alt="Header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=FB923C&center=true&vCenter=true&width=700&lines=Python+%7C+HTML%2FCSS%2FJS+%7C+PHP+%7C+MySQL;Arch-based+Linux+User+(CachyOS+%2B+Hyprland);Exploring+Algorithms+%26+Data+Structures" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=FB923C&center=true&vCenter=true&width=700&lines=Python+%7C+HTML%2FCSS%2FJS+%7C+PHP+%7C+MySQL+%7C+SQLite;Arch-based+Linux+User+(CachyOS+%2B+Hyprland);Exploring+Algorithms+%26+Data+Structures" alt="Typing SVG" />
 
 </div>
 
@@ -28,7 +28,7 @@ Saya sangat menyukai eksplorasi teknologi, mulai dari membangun antarmuka web in
 Di luar lingkungan kode, saya adalah pengguna Linux (**CachyOS + Hyprland**) yang hobi melakukan kustomisasi workflow.
 
 <img src="https://api.iconify.design/lucide/code-2.svg?color=%238b949e" width="16" align="top" /> **Currently working on:** Algoritma & Struktur Data (Python), Static Web Projects<br>
-<img src="https://api.iconify.design/lucide/wrench.svg?color=%238b949e" width="16" align="top" /> **Tech & Tools:** Python, HTML/CSS/JS, PHP, MySQL, Arch-based Linux, Git<br>
+<img src="https://api.iconify.design/lucide/wrench.svg?color=%238b949e" width="16" align="top" /> **Tech & Tools:** Python, HTML/CSS/JS, PHP, MySQL, SQLite, Arch-based Linux, Git<br>
 <img src="https://api.iconify.design/lucide/graduation-cap.svg?color=%238b949e" width="16" align="top" /> **Campus:** Universitas Trunojoyo Madura (UTM)
 
 </td>
@@ -48,7 +48,24 @@ Di luar lingkungan kode, saya adalah pengguna Linux (**CachyOS + Hyprland**) yan
 
 ## Tech Stack
 
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,mysql,python,git,github,arch&perline=10" alt="Tech stack" />
+<table>
+<tr>
+<th align="center">Frontend</th>
+<th align="center">Backend & Database</th>
+<th align="center">Tools</th>
+</tr>
+<tr>
+<td align="center" valign="top">
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap&perline=4" alt="Frontend" />
+</td>
+<td align="center" valign="top">
+<img src="https://skillicons.dev/icons?i=php,python,mysql,sqlite&perline=4" alt="Backend" />
+</td>
+<td align="center" valign="top">
+<img src="https://skillicons.dev/icons?i=git,github,arch&perline=3" alt="Tools" />
+</td>
+</tr>
+</table>
 
 </div>
 
