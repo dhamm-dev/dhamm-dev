@@ -31,7 +31,7 @@ Beyond coding, I am a dedicated Linux power user operating on CachyOS + Hyprland
 e
 🌐 GitHub: github.com/dhamm-dev
 
-<img src="https://api.iconify.design/lucide/code-2.svg?color=%238b949e" width="16" align="top" /> **Currently working on:** Algoritma & Struktur Data (Python), Static Web Projects<br>
+<img src="https://api.iconify.design/lucide/code-2.svg?color=%238b949e" width="16" align="top" /> **Currently working on:** Developing web-based local management platforms & server control panels<br>
 <img src="https://api.iconify.design/lucide/wrench.svg?color=%238b949e" width="16" align="top" /> **Tech & Tools:** Python, HTML/CSS/JS, PHP, MySQL, SQLite, Arch-based Linux, Git<br>
 <img src="https://api.iconify.design/lucide/graduation-cap.svg?color=%238b949e" width="16" align="top" /> **Campus:** Universitas Trunojoyo Madura (UTM)
 
