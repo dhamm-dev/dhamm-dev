@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C2D12,50:EA580C,100:FB923C&height=200&section=header&text=Hi,%20I'm%20Idham!&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Informatics%20Engineering%20Student%20%7C%20Web%20Explorer%20%7C%20Linux%20Enthusiast&descAlignY=58&descSize=16" width="100%" alt="Header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=FB923C&center=true&vCenter=true&width=700&lines=Python+%7C+HTML%2FCSS%2FJS+%7C+PHP+%7C+MySQL+%7C+SQLite;Arch-based+Linux+User+(CachyOS+%2B+Hyprland);Exploring+Algorithms+%26+Data+Structures" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=FB923C&center=true&vCenter=true&width=700&lines=Python+%7C+HTML%2FCSS%2FJS+%7C+PHP+%7C+MySQL+%7C+SQLite;Arch-based+Linux+User+(CachyOS+%2B+Hyprland);Exploring+Front+-+end+Developer+%26+Data+Base" alt="Typing SVG" />
 
 </div>
 
@@ -28,7 +28,7 @@ Hello! I'm Idham Kholid Abidin, a Informatic Engineer student at Universitas Tru
 Currently, I am focusing on Front-End Development and Python, creating interactive, user-centric web applications and efficient tools. My technical exploration ranges from UI design to backend utilities—including projects like dhexx-panel, a lightweight PHP server hosting panel designed for automated deployment and database management.
 
 Beyond coding, I am a dedicated Linux power user operating on CachyOS + Hyprland, constantly tweaking my environment to build a seamless and high-productivity development workflow.
-
+e
 🌐 GitHub: github.com/dhamm-dev
 
 <img src="https://api.iconify.design/lucide/code-2.svg?color=%238b949e" width="16" align="top" /> **Currently working on:** Algoritma & Struktur Data (Python), Static Web Projects<br>
