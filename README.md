@@ -12,7 +12,7 @@
 <tr>
 <td width="200" valign="top" align="left">
 
-<img src="https://images.weserv.nl/?url=raw.githubusercontent.com/dhamm-dev/dhamm-dev/main/asset/profile.jpg&w=400&h=400&fit=cover&mask=circle" width="170" alt="Idham" />
+<img src="https://images.weserv.nl/?url=raw.githubusercontent.com/dhamm-dev/dhamm-dev/main/asset/profile.jpg&w=400&h=400&fit=cover&a=top&mask=circle" width="170" alt="Idham" />
 
 </td>
 <td valign="top">
