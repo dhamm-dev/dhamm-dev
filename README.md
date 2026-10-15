@@ -1,27 +1,80 @@
-<img align="left" src="https://images.weserv.nl/?url=raw.githubusercontent.com/dhamm-dev/dhamm-dev/main/asset/profile.jpg&w=400&h=400&fit=cover&mask=circle" width="150" alt="Idham" hspace="16" />
+<div align="center">
 
-# Idham
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Hi,%20I'm%20Idham!&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Informatics%20Engineering%20Student%20%7C%20Web%20Explorer%20%7C%20Linux%20Enthusiast&descAlignY=58&descSize=16" width="100%" alt="Header" />
 
-Mahasiswa Teknik Informatika, Universitas Trunojoyo Madura.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=7AA2F7&center=true&vCenter=true&width=600&lines=Python+%7C+HTML%2FCSS%2FJS+%7C+PHP+%7C+MySQL;Arch-based+Linux+User+(CachyOS+%2B+Hyprland);Exploring+Algorithms+%26+Data+Structures" alt="Typing SVG" />
 
-Saya suka mengeksplorasi teknologi, mulai dari membangun antarmuka web interaktif sampai bereksperimen dengan sistem operasi. Saat ini sedang mendalami Python dan front-end development. Di luar kode, saya pengguna Linux (CachyOS + Hyprland) yang hobi mengutak-atik workflow.
+</div>
 
-<br clear="left" />
+<br>
 
-<img src="https://api.iconify.design/lucide/code-2.svg?color=%238b949e" width="16" align="top" /> Sedang dikerjakan: Algoritma & Struktur Data (Python), proyek web statis<br>
-<img src="https://api.iconify.design/lucide/terminal.svg?color=%238b949e" width="16" align="top" /> Daily driver: CachyOS, Hyprland<br>
-<img src="https://api.iconify.design/lucide/graduation-cap.svg?color=%238b949e" width="16" align="top" /> Universitas Trunojoyo Madura
+<table width="100%">
+<tr>
+<td width="200" valign="top" align="left">
 
-<a href="https://youtube.com/@dhamm25."><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" /></a>
-<a href="https://github.com/dhamm-dev"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+<img src="https://images.weserv.nl/?url=raw.githubusercontent.com/dhamm-dev/dhamm-dev/main/asset/profile.jpg&w=400&h=400&fit=cover&mask=circle" width="170" alt="Idham" />
+
+</td>
+<td valign="top">
+
+### About Me
+
+Saya sangat menyukai eksplorasi teknologi, mulai dari membangun antarmuka web interaktif hingga bereksperimen dengan sistem operasi. Saat ini saya sedang mendalami pemrograman Python dan front-end development.
+
+Di luar lingkungan kode, saya adalah pengguna Linux (**CachyOS + Hyprland**) yang hobi melakukan kustomisasi workflow.
+
+<img src="https://api.iconify.design/lucide/code-2.svg?color=%238b949e" width="16" align="top" /> **Currently working on:** Algoritma & Struktur Data (Python), Static Web Projects<br>
+<img src="https://api.iconify.design/lucide/wrench.svg?color=%238b949e" width="16" align="top" /> **Tech & Tools:** Python, HTML/CSS/JS, PHP, MySQL, Arch-based Linux, Git<br>
+<img src="https://api.iconify.design/lucide/graduation-cap.svg?color=%238b949e" width="16" align="top" /> **Campus:** Universitas Trunojoyo Madura (UTM)
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<a href="https://youtube.com/@dhamm25."><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube" /></a>
+<a href="https://github.com/dhamm-dev"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+
+</div>
+
+---
+
+<div align="center">
 
 ## Tech Stack
 
 <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,mysql,python,git,github,arch&perline=10" alt="Tech stack" />
 
+</div>
+
+---
+
+<div align="center">
+
 ## GitHub Stats
 
-<img src="https://github-readme-stats.shion.dev/api?username=dhamm-dev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" />
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=dhamm-dev&theme=tokyonight&hide_border=true&layout=compact" height="165" />
+<img src="https://github-readme-stats.shion.dev/api?username=dhamm-dev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="170" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=dhamm-dev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="170" />
 
-<img src="https://streak-stats.demolab.com/?user=dhamm-dev&theme=tokyonight&hide_border=true" />
+<br>
+
+<img src="https://streak-stats.demolab.com/?user=dhamm-dev&theme=tokyonight&hide_border=false" />
+
+</div>
+
+---
+
+<div align="center">
+
+## GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=dhamm-dev&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" width="100%" alt="Footer" />
+
+</div>
