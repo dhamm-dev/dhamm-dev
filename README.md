@@ -23,9 +23,13 @@
 
 ### About Me
 
-Saya sangat menyukai eksplorasi teknologi, mulai dari membangun antarmuka web interaktif hingga bereksperimen dengan sistem operasi. Saat ini saya sedang mendalami pemrograman Python dan front-end development.
+Hello! I'm Idham Kholid Abidin, a Informatic Engineer student at Universitas Trunodjoyo Madura passionate about software development, web technologies, and system optimization.
 
-Di luar lingkungan kode, saya adalah pengguna Linux (**CachyOS + Hyprland**) yang hobi melakukan kustomisasi workflow.
+Currently, I am focusing on Front-End Development and Python, creating interactive, user-centric web applications and efficient tools. My technical exploration ranges from UI design to backend utilities—including projects like dhexx-panel, a lightweight PHP server hosting panel designed for automated deployment and database management.
+
+Beyond coding, I am a dedicated Linux power user operating on CachyOS + Hyprland, constantly tweaking my environment to build a seamless and high-productivity development workflow.
+
+🌐 GitHub: github.com/dhamm-dev
 
 <img src="https://api.iconify.design/lucide/code-2.svg?color=%238b949e" width="16" align="top" /> **Currently working on:** Algoritma & Struktur Data (Python), Static Web Projects<br>
 <img src="https://api.iconify.design/lucide/wrench.svg?color=%238b949e" width="16" align="top" /> **Tech & Tools:** Python, HTML/CSS/JS, PHP, MySQL, SQLite, Arch-based Linux, Git<br>
