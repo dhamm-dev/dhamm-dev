@@ -88,14 +88,6 @@ Di luar lingkungan kode, saya adalah pengguna Linux (**CachyOS + Hyprland**) yan
 
 <div align="center">
 
-## GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=dhamm-dev&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
-
-</div>
-
-<div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C2D12,50:EA580C,100:FB923C&height=100&section=footer" width="100%" alt="Footer" />
 
 </div>
